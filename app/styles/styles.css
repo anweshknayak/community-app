@@ -7820,7 +7820,7 @@ span.required {
 /* @import this file */
 .navbar {
   border-bottom: 1px solid #dfdfdf;
-  background-color: white; }
+  background-color: #082331; }
   .navbar #leftnav-toggle {
     float: left;
     display: inline-block;
@@ -7920,7 +7920,7 @@ span.required {
     max-width: 51px;
     overflow: auto;
     overflow-x: hidden;
-    background: #082331;
+    background: #283f4b;
     border-right: 1px solid #e0e0e0;
     -webkit-transition-duration: 500ms;
     -moz-transition-duration: 500ms;
